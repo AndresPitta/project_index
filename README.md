@@ -9,7 +9,7 @@ This repository contains a list of personal and academic projects, with links an
 
 ## Personal projects
 
-This section is under construction.
+1. **Date of project: January 2020** [Pokemon Tier prediction](https://github.com/AndresPitta/P01_Pokemon-tier): Based on Gibs' [smogon 6 vs 6 pokemon tiers dataset](https://www.kaggle.com/notgibs/smogon-6v6-pokemon-tiers)
 
 
 
